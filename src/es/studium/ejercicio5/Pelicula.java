@@ -62,5 +62,4 @@ public class Pelicula
 	{
 		this.director = director;
 	}
-	
 }
